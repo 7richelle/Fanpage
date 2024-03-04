@@ -1,0 +1,60 @@
+body{
+	border: 2px solid black;
+  padding: 25px;
+  background-image:url("https://m.media-amazon.com/images/I/81oLrJzdLNL._AC_SL1500_.jpg");
+  background-repeat: repeat;
+ background-size: 100% ;
+}
+.mySummary {
+  border: 10px outset #800080;
+  background-image: linear-gradient(#FFDAB9,#DA70D6);    
+  text-align: center;
+  font-family: tahoma;
+}
+ .myDivi {
+  border: 10px outset gold;
+  background-color: white;    
+  text-align:center ;
+  width: 600px;
+  font-family: garamond;
+ }
+.myEarth{
+    border: 5px outset #CD5C5C;
+  background-image: linear-gradient(#9ACD32,#F4A460);    
+  text-align: center;
+}
+.myFire{ 
+    border: 5px outset #FFFF00;
+  background-image: linear-gradient(#FFA500,#FF4500);    
+  text-align: center;
+}
+
+.myWater{
+    border: 5px outset #40E0D0;
+  background-image: linear-gradient(#B0E0E6,#4169E1);    
+  text-align: center;
+}
+.myAir{
+    border: 5px outset #D2B48C;
+  background-image: linear-gradient(#F5F5F5,#F5DEB3);    
+  text-align: center;
+}
+
+.myAnocontent{
+    border: 5px outset #D2B48C;
+ background-image: linear-gradient(#D2B48C,#F5DEB3);     
+  text-align: center;
+}
+ .myDivision {
+  border: 10px outset #DB7093;
+  background-image: linear-gradient(#FFEFD5,#DDA0DD);   
+  text-align: center ;
+  font-family: garamond;
+ 
+}
+li:hover {
+  background-color: orchid;
+}
+b:hover{
+	background-color: orchid;
+}

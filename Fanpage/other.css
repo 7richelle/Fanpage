@@ -1,0 +1,21 @@
+.myQuotes{
+	 border: 5px outset #0000CD;
+  background-image: linear-gradient(#ADD8E6,#483D8B);    
+  text-align: center;
+}
+body{
+	border: 2px solid black;
+  padding: 25px;
+  background-image:url("https://static.wixstatic.com/media/6f1822_68501e398a834591b23c295fda2c7d97~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6f1822_68501e398a834591b23c295fda2c7d97~mv2.jpeg");
+  background-repeat: repeat;
+ background-size: 100% ;
+}
+
+.myQuot{
+	 border: 5px outset orchid;
+  background-image: linear-gradient(pink,#FFDAB9);    
+  text-align: center;
+}
+a:hover{
+	background-color:yellow;
+}

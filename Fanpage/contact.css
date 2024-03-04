@@ -1,0 +1,14 @@
+body{
+	border: 2px solid black;
+  padding: 25px;
+  background-image:url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0eb0f155-e353-4cbc-882d-ea2e9025c5b5/de4qfia-85391562-1bd3-4703-ac5e-307ab05859b7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBlYjBmMTU1LWUzNTMtNGNiYy04ODJkLWVhMmU5MDI1YzViNVwvZGU0cWZpYS04NTM5MTU2Mi0xYmQzLTQ3MDMtYWM1ZS0zMDdhYjA1ODU5YjcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AJ55bpnlvxr1uiHbUyyTJ2GxgAR3vvrjOHSnrIOLYR4");
+  background-repeat: repeat;
+ background-size: 40% ;
+
+}
+.myContact{
+	width: 600px;
+	 border: 5px outset #B22222;
+  background-image: linear-gradient(#FA8072,#FF6347);    
+  text-align: center;
+}

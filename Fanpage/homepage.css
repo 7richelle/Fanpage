@@ -1,0 +1,46 @@
+body{
+	border: 2px solid black;
+  padding: 25px;
+  background-image:url("https://images.saatchiart.com/saatchi/2187227/art/10471563/9534055-ASYGEXFH-7.jpg");
+  background-repeat: repeat;
+ 
+
+  background-size: 100% ;
+}
+h1{
+font-family: papyrus;
+color: gold;
+font:  italic;
+}
+h2{
+   color: gold;
+   font-family: italic;
+}
+h2{
+	color: black;
+}
+
+.summary{
+color: white;
+}	
+  .myDiv {
+  border: 5px outset black;
+  background-color: brown;    
+  text-align: center;
+  }
+.myAbout {
+  border: 5px outset #CD5C5C;
+  background-image: linear-gradient(#F4A460, #8FBC8F);    
+  text-align: center;
+}
+
+.myContent {
+  border: 5px outset #CD5C5C;
+  background-image: linear-gradient(#D2B48C,#F5DEB3);    
+  text-align: center;
+}
+
+ a:hover {
+  background-color: yellow;
+}
+	
